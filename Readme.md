@@ -80,5 +80,3 @@ La descripción completa y las referencias oficiales AWS están en las secciones
 | `Documentos/diagramas/iconos-aws/` | Iconos AWS, manifiestos de procedencia y enunciado original. |
 | `Documentos/diagramas/iconos-azure/` | Iconos Azure y su manifiesto de procedencia. |
 
-
-La procedencia de los símbolos AWS se conserva en los manifiestos [principal](Documentos/diagramas/iconos-aws/procedencia.json) y [adicional](Documentos/diagramas/iconos-aws/procedencia-adicional.json). Los símbolos Azure disponen de su [propio manifiesto](Documentos/diagramas/iconos-azure/procedencia.json).
